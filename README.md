@@ -20,7 +20,7 @@
 <a target="_blank" href="undefinedhttps://medium.com/@ebruugnd/subscribe" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" 
 <a target="_blank" href="https://www.instagram.com/https://instagram.com/ebru.codes" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrugundogduu&" alt="ebrugundogduu" /></p>
+
 
 
 
